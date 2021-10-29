@@ -1,4 +1,5 @@
-const Person = require('./class/anatomia');
+const Person = require('./class/metodoPublico');
+let marco = new Person({name:'Marco',age : 21})._name;
+console.log(marco);
 
-let maria = new Person ({name : 'Maria',age : 21}).speak();
 
