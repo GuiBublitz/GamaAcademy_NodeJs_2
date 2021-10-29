@@ -23,10 +23,7 @@
 - Anatomia de uma Classe
 - Getters and Setters
 - Métodos públicos e métodos privados
-- Aplicabilidade com Node e Javascript - Parte 1
-- Aplicabilidade com Node e Javascript - Parte 2
-- Aplicabilidade com Node e Javascript - Parte 3
-- Usabilidade e conclusão
+- Projeto disponível no repositorio : <a href="">Projeto NodejsPOO</a>;
 
 ## :rocket: Tecnologias
 
