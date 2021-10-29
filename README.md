@@ -23,7 +23,7 @@
 - Anatomia de uma Classe
 - Getters and Setters
 - Métodos públicos e métodos privados
-- Projeto disponível no repositorio : <a href="">Projeto NodejsPOO</a>;
+- Projeto disponível no repositorio : <a href="">Projeto NodejsPOO</a>
 
 ## :rocket: Tecnologias
 
